@@ -1,14 +1,15 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(245, 222, 179, 0.63);
+    margin: 50px;
 }
 
-h1 {
-    text-align: center;
+h1{
+    text-align: left;
     font-weight: 1000;
 }
 .info {
-    text-align: center;
+    text-align: left;
 }
 
 ul li,
