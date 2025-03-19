@@ -10,3 +10,8 @@ h1 {
 .info {
     text-align: center;
 }
+
+ul li,
+ol li{
+    margin-bottom: 10px;
+}
