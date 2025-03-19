@@ -2,7 +2,6 @@ body {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(245, 222, 179, 0.63);
     margin: 50px;
-    margin-right: 1000px;
 }
 
 h1{
@@ -16,7 +15,6 @@ h1{
 ul li,
 ol li{
     margin-bottom: 20px;
-
 }
 .recipe-desc {
     font-weight: bold;
